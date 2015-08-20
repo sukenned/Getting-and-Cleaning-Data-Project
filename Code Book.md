@@ -21,7 +21,6 @@ Subject – Indenties subject participating in the study (1-30)
 Activity – Type of activity the subject was participating in (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
 
 The following variables represents means of measurements by subject and activity.
-
 tBodyAcc-mean()-X
 tBodyAcc-mean()-Y
 tBodyAcc-mean()-Z
@@ -88,4 +87,5 @@ fBodyBodyGyroMag-mean()
 fBodyBodyGyroMag-std()
 fBodyBodyGyroJerkMag-mean()
 fBodyBodyGyroJerkMag-std()
+
 
