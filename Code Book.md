@@ -14,6 +14,7 @@ The program run_analysis.R does the following.
  
 
 Data Dictionary – Tidy Data Set Output from run_analysis.R
+
 Group – Indentifies test or train group
 
 Subject – Indenties subject participating in the study (1-30)
