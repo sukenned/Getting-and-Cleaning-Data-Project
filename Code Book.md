@@ -13,10 +13,15 @@ The program run_analysis.R does the following.
  - Outputs the tidy dataset.
  
 Data Dictionary – Tidy Data Set Output from run_analysis.R
+
 Group – Indentifies test or train group
+
 Subject – Indenties subject participating in the study (1-30)
+
 Activity – Type of activity the subject was participating in (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
+
 The following variables represents means of measurements by subject and activity.
+
 tBodyAcc-mean()-X
 tBodyAcc-mean()-Y
 tBodyAcc-mean()-Z
