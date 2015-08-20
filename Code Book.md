@@ -12,8 +12,8 @@ The program run_analysis.R does the following.
  - From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
  - Outputs the tidy dataset.
  
-Data Dictionary – Tidy Data Set Output from run_analysis.R
 
+Data Dictionary – Tidy Data Set Output from run_analysis.R
 Group – Indentifies test or train group
 
 Subject – Indenties subject participating in the study (1-30)
